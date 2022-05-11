@@ -6,9 +6,8 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello Java!  
 </h1>
 
-<P> hyeon ho </P>
 </body>
 </html>
