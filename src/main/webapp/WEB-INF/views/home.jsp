@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello Java!  
+	Spring Project  
 </h1>
 
 </body>
